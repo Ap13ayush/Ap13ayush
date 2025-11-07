@@ -40,8 +40,6 @@ With every line of code, I aim to make testing faster, smarter, and more reliabl
 | **[Hacker Rank](#)** | Basic SQL | [View Certificate](https://drive.google.com/file/d/155p_BR49lNZHQGDcmjZRgQyKd6T9i3Ck/view?usp=sharing) |
 | **[Hacker Rank](#)** | Basic Problem Sloving  | [View Certificate](https://drive.google.com/file/d/1y-uXqLzCpWQ7FmWt0Xs-Mk2-5Au2EJWY/view?usp=sharing) |
 
-> _(Replace the placeholders above with your real certificate names and URLs.)_
-
 ---
 
 ## 🧰 Tech Arsenal  
@@ -77,7 +75,6 @@ With every line of code, I aim to make testing faster, smarter, and more reliabl
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ap13ayush&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C6A7&icon_color=00C6A7" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ap13ayush&theme=react&hide_border=true&background=0D1117&ring=00C6A7&fire=00C6A7&currStreakLabel=00C6A7" />
 </p>
 
 <p align="center">
@@ -103,16 +100,6 @@ With every line of code, I aim to make testing faster, smarter, and more reliabl
 ---
 
 
-## ✨ Fun Facts  
-
-- 🧩 I believe in **“Test like a user, code like a developer.”**  
-- 💬 I enjoy mentoring QA engineers and contributing to automation best practices.  
-- 🎯 My goal: build frameworks that scale effortlessly across teams and domains.  
-- 🧠 Continuous learner – always exploring the latest in test automation, DevOps, and AI testing.
-
----
-
-  
 ## 🌐 Connect With Me  
 
 <p align="center">
