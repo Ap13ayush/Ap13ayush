@@ -1,107 +1,73 @@
-<!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%20Ayush%20Patel%20&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&descAlign=50" />
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%20Ayush%20Patel%20&fontSize=45&fontAlignY=40&desc=SDET%20|%20Test%20Architect%20|%20CI/CD%20Enthusiast&descAlignY=60&descAlign=50" />
+</p>
+ 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ap13ayush"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Patel-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:ayush72patel@gmail.com"><img src="https://img.shields.io/badge/Email-ayush72patel@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
-## 💫 About Me  
+## 💫 Elevating Software Quality Through Automation
 
-I’m **Ayush Patel**, a passionate **Software Development Engineer in Test (SDET)** who loves turning quality engineering into a science.  
-With every line of code, I aim to make testing faster, smarter, and more reliable. I specialize in building **scalable test automation frameworks** that seamlessly blend with CI/CD pipelines — enabling teams to ship confidently at speed.  
+I’m **Ayush Patel**, a **Software Development Engineer in Test (SDET)** dedicated to transforming manual bottlenecks into seamless automated pipelines. I don't just "find bugs"—I architect systems that prevent them.
 
-💼 My career has been defined by curiosity and craftsmanship: I enjoy delving deeply into complex systems, breaking them creatively, and ensuring every feature behaves as users expect.  
-💡 Whether it’s **UI testing**, **API validation**, or **BDD implementation**, I’m driven by the belief that test automation isn’t just about catching bugs — it’s about **building trust in software**.  
-🧠 I constantly explore new tools, refine my frameworks, and contribute to quality-focused innovation across teams.  
-
-> “I automate with intent — so that every test brings us one step closer to flawless delivery.”
-
-
-
-
-
-## 🧩 Featured Projects  
-
-| 💼 Project | 📖 Description | 🧰 Tech Stack |
-|:-----------|:---------------|:--------------|
-| [**Phoenix HRM Automation**](https://github.com/Ap13ayush/Phoenix-HRM) | **Action:** Designed a robust Page Object Model–based automation framework for an HRM web app covering UI + API + BDD flows. <br> **Outcome:** Reduced manual regression testing time by **70%**, improved test reliability with modular reusable components, and enabled smooth CI/CD integration with Jenkins. | Java · Selenium · REST-Assured · TestNG · Jenkins |
-| [**Nexus Blog Automation Suite**](https://github.com/Ap13ayush/Nexus-Blog--App) | **Action:** Built a cross-layer automation suite for a blogging platform, integrating UI (Cypress), API, and BDD testing pipelines. <br> **Outcome:** Delivered **85%+ coverage**, implemented real-time report generation with Mochawesome, and automated daily builds via GitHub Actions. | JavaScript · Cypress · Cucumber · Mochawesome · GitHub Actions |
-| [**QuantumLeap E-Commerce Framework**](https://github.com/Ap13ayush/QuantumLeap--E-Commerce) | **Action:** Architected a reusable automation solution for e-commerce platforms, emphasizing modularity and cross-browser scalability. <br> **Outcome:** Cut test execution time by **40%**, enabled multi-environment test triggers, and simplified onboarding for QA teams. | Java · Selenium · Cucumber · Jenkins |
+* 🔭 **Currently:** Scaling automation frameworks and exploring AI-driven testing.
+* ⚡ **Philosophy:** "If you have to do it twice, automate it."
+* 🌱 **Learning:** Performance testing (JMeter) and Cloud Infrastructure (AWS).
 
 ---
 
-## 🎓 Certifications  
+### 🛠️ Technical Ecosystem
 
-| 🏅 Certificate | 🎯 Description | 🔗 Link |
-|:---------------|:---------------|:--------|
-| **[PW Skills ](#)** |Java DSA And System Desgin| [View Certificate](https://drive.google.com/file/d/1yOjzconDigRfz4FzaX_KSMLp1sAavy55/view?usp=sharing) |
-| **[Hacker Rank](#)** | Basic SQL | [View Certificate](https://drive.google.com/file/d/155p_BR49lNZHQGDcmjZRgQyKd6T9i3Ck/view?usp=sharing) |
-| **[Hacker Rank](#)** | Basic Problem Sloving  | [View Certificate](https://drive.google.com/file/d/1y-uXqLzCpWQ7FmWt0Xs-Mk2-5Au2EJWY/view?usp=sharing) |
+| **Area** | **Technology Stack** |
+| :--- | :--- |
+| **Automation Core** | `Selenium` · `Cypress` · `Playwright` · `REST-Assured` |
+| **Architecture** | `Page Object Model (POM)` · `Screenplay Pattern` · `BDD/Cucumber` |
+| **DevOps / CI-CD** | `Jenkins` · `Docker` · `GitHub Actions` · `Maven` |
+| **Core Dev** | `Java (Advanced)` · `JavaScript` · `SQL` · `Python` |
+| **Observability** | `Extent Reports` · `Mochawesome` · `Allure` |
 
 ---
 
-## 🧰 Tech Arsenal  
 
+## 🧩 High-Impact Projects
+
+### 🚀 [Phoenix HRM Automation](https://github.com/Ap13ayush/Phoenix-HRM)
+> **Hybrid Framework (UI + API)**
+* **The Problem:** Regression cycles were taking 3 days, delaying releases.
+* **The Solution:** Built a Page Object Model (POM) framework using **Java & Selenium** with integrated **REST-Assured** for data setup.
+* **The Result:** 📉 **Reduced regression time by 70%** and achieved 100% hands-free execution via Jenkins.
+
+### 🌐 [Nexus Blog Automation Suite](https://github.com/Ap13ayush/Nexus-Blog--App)
+> **Modern Web Testing (Cypress)**
+* **The Problem:** Flaky UI tests in a fast-paced JavaScript environment.
+* **The Solution:** Implemented **Cypress** with **Cucumber** for readable BDD specs and used **GitHub Actions** for parallel execution.
+* **The Result:** ✅ **85% code coverage** and eliminated 90% of "flaky" test failures through better wait strategies.
+
+### 🛒 [QuantumLeap E-Commerce](https://github.com/Ap13ayush/QuantumLeap--E-Commerce)
+> **Scalable Multi-Browser Framework**
+* **The Problem:** Inconsistent user experience across Chrome, Firefox, and Safari.
+* **The Solution:** Designed a driver-factory pattern to support seamless cross-browser testing.
+* **The Result:** ⚡ **40% faster execution** using parallel test runs and thread-safe drivers.
+
+---
+
+## 🎓 Certifications
+* 🎓 **Java DSA & System Design** – PW Skills
+* 🏆 **Basic SQL** – HackerRank
+* 🧠 **Problem Solving (Basic)** – HackerRank
+
+---
+
+## 🤝 Let's Connect
+I'm always open to discussing **Automation Trends, SDET roles, or Open Source Collaboration.**
+
+* 💬 Ask me about: **Selenium, API Testing, or why BDD is more than just Gherkin.**
+* 📫 How to reach me: [ayush72patel@gmail.com](mailto:ayush72patel@gmail.com)
+
+  > _“Quality is never an accident; it is always the result of intelligent effort.”_  
 <p align="center">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20Assured-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-FFB400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- CI/CD & DevOps -->
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-## 💡 My Core Skills  
-- **Languages & Tooling:** Java, Selenium, REST-Assured, Cypress, TestNG/JUnit, Maven/Gradle, Git, Docker  
-- **Testing Types:** Functional UI testing, API testing, Behavior-Driven Development (BDD), cross-browser & mobile testing, CI/CD integration  
-- **Framework Design:** Page Object Model (POM), modular reusable components, keyword & data-driven approaches, reporting & dashboards  
-- **Soft Skills:** Problem-solving, effective communication, working in agile teams, fast learner  
-
----
-
-
-## 🔭 What I’m Working On  
-- Enhancing my skills in CI/CD automation and integrating testing pipelines with tools like Jenkins, GitHub Actions, or Azure DevOps.  
-- Diving into performance and load testing to broaden my QA expertise beyond functional testing.  
-- Exploring how automation frameworks can leverage AI/ML to improve test coverage, flaky test detection, and test maintenance.
-
----
-
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ap13ayush" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ayush72patel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ap13ayush">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-Thanks for visiting my profile!  
-> _“Quality is never an accident; it is always the result of intelligent effort.”_  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C6A7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C6A7&height=100&section=footer"/>
 </p>
