@@ -1,11 +1,7 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%20Ayush%20Patel%20%7C%20SDET&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%20Ayush%20Patel%20&fontSize=45&fontAlignY=40&desc=QA%20Automation%20Engineer%20·%20Framework%20Designer%20·%20Problem%20Solver&descAlignY=60&descAlign=50" />
 </p>
-
-
----
-
 
 ## 💫 About Me  
 
@@ -67,18 +63,6 @@ With every line of code, I aim to make testing faster, smarter, and more reliabl
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ap13ayush&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C6A7&icon_color=00C6A7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ap13ayush&bg_color=0D1117&color=00C6A7&line=00C6A7&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
